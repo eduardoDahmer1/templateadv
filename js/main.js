@@ -260,7 +260,18 @@ const keywords = [
     "advogado especializado em aposentadoria por tempo de serviço por idade e tempo de contribuição por idade",
     "advogado especializado em aposentadoria por tempo de serviço urbano por idade e tempo de contribuição urbano por idade",
     "consultoria em aposentadoria por tempo de serviço por idade e tempo de contribuição por idade",
-    "consultoria em aposentadoria por tempo de serviço urbano por idade e tempo de contribuição urbano por idade"
+    "consultoria em aposentadoria por tempo de serviço urbano por idade e tempo de contribuição urbano por idade","direitos","idosos","ajuda","auxílio","assistência","amparo","benefício",
+    "socorro","orientação","proteção","cuidado","suporte","subsídio","assistencialismo","cidadania","dignidade",
+    "respeito","inclusão","solidariedade","fraternidade","caridade","amizade","voluntariado","doação","contribuição",
+    "generosidade","bem-estar","qualidade de vida","autonomia","independência","envelhecimento","terceira idade","aposentadoria","pensão","seguro","saúde","alimentação","moradia",
+    "transporte","lazer","recreação","cultura","educação","informação","capacitação","acessibilidade","tecnologia","adaptação",
+    "integração","igualdade","equidade","justiça","legalidade","legislação","normas","regulação","políticas públicas","programas sociais",
+    "serviços","instituições","organizações","entidades","governamentais","não governamentais","redes","grupos","comunidades","família","amigos",
+    "vizinhos","colaboração","cooperação","parcerias","desenvolvimento","progresso","transformação","impacto","participação",
+    "engajamento","mobilização","conscientização","advocacy","empoderamento","direitos humanos","direitos fundamentais","direitos sociais",
+    "direitos civis","direitos individuais","direitos coletivos","direitos difusos","direitos trabalhistas","direitos previdenciários",
+    "direitos de consumidores","direitos ambientais","direitos das minorias","direitos das mulheres",
+    "direitos das crianças","direitos das pessoas com deficiência","direitos dos animais","direitos LGBTQ+","direitos étnicos","direitos culturais"
 ];
 
 const metaKeywords = document.createElement('meta');
