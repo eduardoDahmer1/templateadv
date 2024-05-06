@@ -21,7 +21,7 @@ h6 {
 }
 
 a {
-    color: #454545;
+    color: #999999;
     transition: .3s;
 }
 
@@ -89,7 +89,7 @@ a:focus {
 .top-bar .logo h1 {
     margin: 0;
     color: #aa9166;
-    font-size: 75px;
+    font-size: 3em;
     line-height: 55px;
     font-weight: 800;
 }
@@ -684,7 +684,7 @@ a:focus {
 .service .service-item h3 {
     margin: 0;
     padding: 25px 15px 15px 15px;
-    font-size: 30px;
+    font-size: 2em;
     font-weight: 600;
     color: #aa9166;
 }
@@ -693,7 +693,7 @@ a:focus {
     margin: 0;
     color: #999999;
     padding: 0 25px 25px 25px;
-    font-size: 18px;
+    font-size: 1em;
 }
 
 .service .service-item a.btn {
@@ -1116,6 +1116,10 @@ a:focus {
 
 .blog .blog-item p {
     font-size: 16px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
 .blog .blog-item a.btn {
